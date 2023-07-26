@@ -1,2 +1,3 @@
 # hello-world
-テスト用リポジトリ
+TEST repository for GitHub Localization.
+I hope this works well.
